@@ -1,0 +1,2 @@
+vhdl work "addop.vhd"
+vhdl work "tb_addop.vhd"

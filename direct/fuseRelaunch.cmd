@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/direct/tb_idea_isim_beh.exe" -prj "/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/direct/tb_idea_beh.prj" "work.tb_idea" 

@@ -1,0 +1,42 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -o /home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/rcs1/tb_idea_single_isim_beh.exe -prj /home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/rcs1/tb_idea_single_beh.prj work.tb_idea_single 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/rcs1/xorop.vhd" into library work
+Parsing VHDL file "/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/rcs1/mulop.vhd" into library work
+Parsing VHDL file "/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/rcs1/addop.vhd" into library work
+Parsing VHDL file "/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/rcs1/trafo.vhd" into library work
+Parsing VHDL file "/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/rcs1/round.vhd" into library work
+Parsing VHDL file "/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/rcs1/reg.vhd" into library work
+Parsing VHDL file "/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/rcs1/mux2x1.vhd" into library work
+Parsing VHDL file "/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/rcs1/key_generator.vhd" into library work
+Parsing VHDL file "/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/rcs1/control.vhd" into library work
+Parsing VHDL file "/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/rcs1/idea_single.vhd" into library work
+Parsing VHDL file "/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/rcs1/tb_idea_single.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 98636 KB
+Fuse CPU Usage: 1290 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity control [control_default]
+Compiling architecture behavioral of entity reg [reg_default]
+Compiling architecture behavioral of entity mux2x1 [mux2x1_default]
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity mulop [mulop_default]
+Compiling architecture behavioral of entity addop [addop_default]
+Compiling architecture behavioral of entity xorop [xorop_default]
+Compiling architecture behavioral of entity round [round_default]
+Compiling architecture behavioral of entity trafo [trafo_default]
+Compiling architecture behavioral of entity key_generator [key_generator_default]
+Compiling architecture structural of entity idea_single [idea_single_default]
+Compiling architecture behavior of entity tb_idea_single
+Time Resolution for simulation is 1ps.
+Compiled 26 VHDL Units
+Built simulation executable /home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/rcs1/tb_idea_single_isim_beh.exe
+Fuse Memory Usage: 117908 KB
+Fuse CPU Usage: 1690 ms
+GCC CPU Usage: 3380 ms

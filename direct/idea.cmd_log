@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "/home/ise/TUM_Masters/Semester_4/VHDL_Lab/xilinx_projects/direct/idea.xst" -ofn "/home/ise/TUM_Masters/Semester_4/VHDL_Lab/xilinx_projects/direct/idea.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 idea.ngc idea.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o idea_map.ncd idea.ngd idea.pcf 
+xst -intstyle ise -ifn "/home/ise/TUM_Masters/Semester_4/VHDL_Lab/xilinx_projects/direct/idea.xst" -ofn "/home/ise/TUM_Masters/Semester_4/VHDL_Lab/xilinx_projects/direct/idea.syr" 
+xst -intstyle ise -ifn "/home/ise/TUM_Masters/Semester_4/VHDL_Lab/xilinx_projects/direct/idea.xst" -ofn "/home/ise/TUM_Masters/Semester_4/VHDL_Lab/xilinx_projects/direct/idea.syr" 
+xst -intstyle ise -ifn "/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/direct/idea.xst" -ofn "/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/direct/idea.syr" 

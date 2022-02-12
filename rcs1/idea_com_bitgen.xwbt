@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/rcs1/idea_com.ncd
+OUTFILE=/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/rcs1/idea_com.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/rcs1
+LICENSE=ISE
+USER_INFO=8416_11442_1478797146_620

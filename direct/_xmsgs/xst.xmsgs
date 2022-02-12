@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/idea</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/xilinx_projects/direct/idea.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/direct/idea.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/idea/Structural</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/xilinx_projects/direct/idea.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/direct/idea.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/round</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/xilinx_projects/direct/round.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/direct/round.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/round/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/xilinx_projects/direct/round.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/direct/round.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/trafo</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/xilinx_projects/direct/trafo.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/direct/trafo.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/trafo/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/xilinx_projects/direct/trafo.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/direct/trafo.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/addop</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/xilinx_projects/direct/addop.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/direct/addop.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/addop/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/xilinx_projects/direct/addop.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/direct/addop.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/mulop</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/xilinx_projects/direct/mulop.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/direct/mulop.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/mulop/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/xilinx_projects/direct/mulop.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/direct/mulop.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/xorop</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/xilinx_projects/direct/xorop.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/direct/xorop.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/xorop/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/xilinx_projects/direct/xorop.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">/home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/direct/xorop.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">PROD&lt;33&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">DIFF&lt;16&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="info" file="Xst" num="1767" delta="new" >HDL ADVISOR - Resource sharing has identified that some arithmetic operations in this design can share the same physical resources for reduced device utilization. For improved clock frequency you may try to disable resource sharing.
+</msg>
+
+<msg type="warning" file="Xst" num="2254" delta="new" >Area constraint could not be met for block &lt;<arg fmt="%s" index="1">idea</arg>&gt;, final ratio is <arg fmt="%i" index="2">160</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1336" delta="new" > (*) More than 100% of Device resources are used
+</msg>
+
+</messages>
+

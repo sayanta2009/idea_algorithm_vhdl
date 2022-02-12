@@ -1,0 +1,5 @@
+work	"control.vhd"
+work	"idea_single.vhd"
+work	"key_generator.vhd"
+work	"mux2x1.vhd"
+work	"reg.vhd"

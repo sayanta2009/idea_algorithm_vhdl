@@ -1,0 +1,17 @@
+ISim log file
+Running: /home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/rcs2plus/tb_idea_rcs2_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/ise/TUM_Masters/Semester_4/VHDL_Lab/assignment_submission/submit/rcs2plus/tb_idea_rcs2_isim_beh.wdb 
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /tb_idea_rcs2/uut/extended_round_module/datapath_module/mul/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+Finished circuit initialization process.
+# exit 0
